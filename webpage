@@ -5,4 +5,8 @@
             <body> 
                    <h1>github tutiorial</h1>
             </body>
+            <ol>
+            repo push
+            repo pull
+            </ol>
 </html>
